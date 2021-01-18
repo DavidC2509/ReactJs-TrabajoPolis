@@ -1,0 +1,26 @@
+
+#CardDeTrabajos{
+    margin-left: 30px;
+	margin-top: 20px;
+	width: 25%;
+	height: 10%;
+}
+
+#search {
+	border: solid;
+	outline: none;
+	position: absolute;
+	right: 95px;
+    
+}
+
+#BotonBuscador {
+	border: solid;
+	outline: none;
+    position: absolute;
+    margin-top: -4px;
+    right: 15px;
+}
+
+
+
